@@ -1,1 +1,1 @@
-# bismillah.git.io
+# bismillah.github.io
